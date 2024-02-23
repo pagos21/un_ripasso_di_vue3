@@ -1,0 +1,3 @@
+<template>
+    THE CONTACT
+</template>
